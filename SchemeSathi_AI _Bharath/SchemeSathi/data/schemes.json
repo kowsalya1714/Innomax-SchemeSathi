@@ -1,0 +1,100 @@
+[
+  {
+    "id": "pmuy",
+    "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "category": "Women & family / Clean cooking",
+    "summary": "Provides deposit-free LPG connections to eligible adult women from poor households, subject to the scheme conditions.",
+    "eligibility": [
+      "Applicant must be an adult woman (18 years or older).",
+      "Applicant must belong to an eligible poor-household category/deprivation category listed by PMUY.",
+      "No other LPG connection should exist in the same household."
+    ],
+    "documents": [
+      "KYC form",
+      "Ration card or other state document establishing family composition (or prescribed migrant self-declaration)",
+      "Aadhaar of applicant and adult family members listed in family-composition proof",
+      "Address proof, where applicable",
+      "Bank account number and IFSC"
+    ],
+    "official_url": "https://pmuy.gov.in/faq.html",
+    "source_name": "PMUY official FAQ, Ministry of Petroleum and Natural Gas",
+    "checked_on": "2026-11-24",
+    "notes": "The official FAQ lists the eligible categories and required documents. Confirm the latest application instructions with the official portal or an LPG distributor. This app does not determine final approval."
+  },
+  {
+    "id": "eshram",
+    "name": "e-Shram registration",
+    "category": "Workers / Social security",
+    "summary": "A national database and registration facility for eligible unorganised workers, intended to support access to welfare and social-security services.",
+    "eligibility": [
+      "Worker should be engaged in unorganised work (for example, home-based, self-employed or wage work).",
+      "Official FAQ states that workers aged 16 years and above may register, subject to other prescribed criteria.",
+      "Official FAQ describes unorganised workers as workers who are not members of ESIC or EPFO."
+    ],
+    "documents": [
+      "Aadhaar number",
+      "Aadhaar-linked mobile number; if unavailable, the official FAQ advises visiting a CSC/State Seva Kendra for biometric registration"
+    ],
+    "official_url": "https://eshram.gov.in/faqs?page=0",
+    "source_name": "e-Shram official FAQ, Ministry of Labour & Employment",
+    "checked_on": "2026-11-24",
+    "notes": "The portal is a worker-registration database; registration itself should not be represented as automatic approval for every linked welfare benefit. Check the portal for current criteria and processes."
+  },
+  {
+    "id": "pmsym",
+    "name": "Pradhan Mantri Shram Yogi Maandhan (PM-SYM)",
+    "category": "Workers / Pension",
+    "summary": "A voluntary contributory pension scheme for eligible unorganised workers, with an assured monthly pension described on the official e-Shram scheme page.",
+    "eligibility": [
+      "Indian citizen working in the unorganised sector.",
+      "Age between 18 and 40 years.",
+      "Monthly income below ₹15,000.",
+      "Must not be a member of EPFO, ESIC or NPS (government-funded), as stated on the official scheme page."
+    ],
+    "documents": [
+      "Identity and age details",
+      "Bank account details",
+      "Aadhaar and other documents requested by the official enrolment channel"
+    ],
+    "official_url": "https://www.eshram.gov.in/Schemes",
+    "source_name": "e-Shram official scheme page, Ministry of Labour & Employment",
+    "checked_on": "2026-11-24",
+    "notes": "This is a contributory pension scheme; contribution amounts depend on entry age. Confirm current enrolment rules and contribution details through the official portal/CSC."
+  },
+  {
+    "id": "pmjdy",
+    "name": "Pradhan Mantri Jan-Dhan Yojana (PMJDY)",
+    "category": "Banking / Financial inclusion",
+    "summary": "A financial-inclusion programme enabling an unbanked person to open a basic savings bank deposit account and access listed banking services.",
+    "eligibility": [
+      "The official scheme page describes opening a basic savings bank deposit account for a person who does not have another bank account.",
+      "Account opening is available through a bank branch or Bank Mitra outlet, subject to bank/KYC requirements."
+    ],
+    "documents": [
+      "KYC documents accepted by the bank; confirm the current list with the bank or official PMJDY portal"
+    ],
+    "official_url": "https://pmjdy.gov.in/scheme-detail.aspx",
+    "source_name": "PMJDY scheme details, Department of Financial Services, Ministry of Finance",
+    "checked_on": "2026-11-24",
+    "notes": "The page lists benefits including no minimum-balance requirement for PMJDY accounts. Specific insurance and overdraft benefits have conditions; do not assume every account holder automatically qualifies."
+  },
+  {
+    "id": "pmkisan",
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "category": "Agriculture / Farmers",
+    "summary": "An income-support scheme for eligible landholding farmer families, subject to the scheme's exclusion criteria and verification through state land records.",
+    "eligibility": [
+      "The operational guidelines describe eligible landholding farmer families, with benefits subject to specified exclusion categories.",
+      "Landholding details are checked using state/UT land records and scheme verification processes.",
+      "Certain institutional landholders and specified higher-income/professional categories are excluded under the guidelines."
+    ],
+    "documents": [
+      "Landholding/land-record details",
+      "Aadhaar and bank details as required by the official portal and current registration process"
+    ],
+    "official_url": "https://pmkisan.gov.in/",
+    "source_name": "PM-KISAN official portal and operational guidelines, Department of Agriculture & Farmers Welfare",
+    "checked_on": "2026-11-24",
+    "notes": "Do not use this short summary as a final eligibility decision. The official guidelines contain detailed exclusion rules; check the portal and the relevant state land records."
+  }
+]
